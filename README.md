@@ -40,3 +40,6 @@ Instale em um dispositivo o app CameraView
 
 Rode o script server.py
 
+Abra o app em um smartphone.
+
+Obs: É preciso alterar no código o ip do servidor e do socket (server.py e sendFile.java).
